@@ -1,0 +1,17 @@
+body{
+  margin-top: 70px;
+  background: #333;
+  color: #fff;
+}
+h4, .card-block div{
+  color: #fff;
+}
+.card-primary{
+  background: #0d6efd;
+}
+.card-success{
+  background: #198754;
+}
+.card-danger{
+  background: #dc3545;
+}
